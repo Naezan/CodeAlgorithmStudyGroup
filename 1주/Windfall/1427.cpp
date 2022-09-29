@@ -3,6 +3,10 @@ using namespace std;
 
 int main()
 {
-	int numArray[10];
-
+	
+	string s1;
+	cin >> s1;
+	sort(s1.begin(), s1.end(), greater<>());
+	cout << s1;
+	
 }
