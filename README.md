@@ -1,6 +1,7 @@
 # CodeAlgorithmStudyGroup
 
-##1주
+## 1주
+
 
 점수 계산
 https://www.acmicpc.net/problem/2822
@@ -23,7 +24,8 @@ https://www.acmicpc.net/problem/1935
 컴백홈
 https://www.acmicpc.net/problem/1189
 
-##2주
+## 2주
+
 
 체인
 https://www.acmicpc.net/problem/2785
