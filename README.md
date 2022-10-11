@@ -44,3 +44,24 @@ https://www.acmicpc.net/problem/2293
 
 센서
 https://www.acmicpc.net/problem/2212
+
+## 3주
+
+
+종이 접기
+https://www.acmicpc.net/problem/1802
+
+흙길 보수하기
+https://www.acmicpc.net/problem/1911
+
+단지번호붙이기
+https://www.acmicpc.net/problem/2667
+
+스타트링크
+https://www.acmicpc.net/problem/5014
+
+동전2
+https://www.acmicpc.net/problem/2294
+
+합분해
+https://www.acmicpc.net/problem/2225 
